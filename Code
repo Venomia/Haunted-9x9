@@ -1,0 +1,435 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 8",
+    "author": "Venomia",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 29,
+      "max_y": 29,
+      "max_z": 23
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:andesite"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:andesite_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "minecraft:anvil"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 112,
+          "item": {
+            "id": "ars_nouveau:archwood_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 15,
+          "item": {
+            "id": "chipped:basalt_20"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 20,
+          "item": {
+            "id": "architects_palette:basalt_tile_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 12,
+          "item": {
+            "id": "minecraft:cauldron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 46,
+          "item": {
+            "id": "minecraft:chain"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:chipped_anvil"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 61,
+          "item": {
+            "id": "connectedglass:clear_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 165,
+          "item": {
+            "id": "quark:cobbled_deepslate"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 20,
+          "item": {
+            "id": "quark:cobbled_deepslate_wall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "minecraft:cobblestone_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 285,
+          "item": {
+            "id": "chisel:concrete/white/braid"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 675,
+          "item": {
+            "id": "chisel:concrete/white/cracked_bricks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "chisel:concrete/white/french_1"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 152,
+          "item": {
+            "id": "chisel:concrete/white/layers"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "architects_palette:cracked_basalt_tiles"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 152,
+          "item": {
+            "id": "minecraft:cracked_stone_bricks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "minecraft:dark_prismarine"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "minecraft:dark_prismarine_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "engineersdecor:dark_shingle_roof_chimney"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "masonry:darkprismarinechiseledwall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 65,
+          "item": {
+            "id": "masonry:darkprismarinecolumnwall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "masonry:darkprismarinepaverswall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "masonry:darkprismarinepolished"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "masonry:darkprismarinepolishedwall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "masonry:darkprismarinetiledwall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 128,
+          "item": {
+            "id": "minecraft:dirt"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 23,
+          "item": {
+            "id": "byg:ether_button"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "byg:ether_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "torchmaster:feral_flare_lantern"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 243,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 579,
+          "item": {
+            "id": "minecraft:gray_concrete"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 55,
+          "item": {
+            "id": "cookingforblockheads:gray_kitchen_floor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 20,
+          "item": {
+            "id": "minecraft:iron_bars"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "minecraft:lantern"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 76,
+          "item": {
+            "id": "chisel:marble/braid"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "engineersdecor:metal_sliding_door"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:polished_andesite"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "minecraft:polished_andesite_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 251,
+          "item": {
+            "id": "minecraft:polished_basalt"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "minecraft:polished_blackstone_pressure_plate"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 144,
+          "item": {
+            "id": "chisel:prismarine/braid"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 121,
+          "item": {
+            "id": "masonry:prismarinecobbled"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "masonry:prismarinepolished"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 85,
+          "item": {
+            "id": "masonry:prismarinesmallbrick"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "dustrial_decor:sheet_metal_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 102,
+          "item": {
+            "id": "minecraft:stone_brick_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 75,
+          "item": {
+            "id": "minecraft:stone_brick_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:stone_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 47,
+          "item": {
+            "id": "masonry:stonepanels"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 264,
+          "item": {
+            "id": "masonry:stonepillar"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 90,
+          "item": {
+            "id": "masonry:stoneroughcut"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "byg:therium_lantern"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 320,
+          "item": {
+            "id": "chisel:tyrian/blueplating"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 15,
+          "item": {
+            "id": "minecraft:warped_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 94,
+          "item": {
+            "id": "minecraft:white_concrete"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "byg:witch_hazel_button"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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BtjCDvZwgDs4wgnu+WmAAzwRyvp2z/p2j2579Nmzrt2jzx4dju0IfzU5WVNuQ32h6K5nXZBnfsWjt551mh699eirR189+uqXceNeKPMcHl316KpHVz266tFVj656dNWjqx5d9eiqR1c9uurRVY+uenTVo6seXfXoqkdXPbrq0VWPrnp01aOrHl316KpnPabn/UzPeN2jq571lx4d9eilZ1zuWfcT62u2a7YL5T1Njy561v943tP0zJd7dNEzbvfookcXPbro0UWPLnp00aOLHl306KJHFz266NFFjy56dNGjix5d9OiiRxc9uujRRY8uenTRo4seXfToomfc7tFFjy56xu0effToo2fc7tFJj0565kE8OunRSY9OenTSo5MenfSM2z3jdo9OenTSo5Oecbtn3O7RSWEOezjAWS+FCmpoYAktrPq4Hwc9+Ro2MMAWdn38vif8pMiKPzG/Foou1uhijS7W6GKNLtboYo0u1uhijS7W6GKNLtboYo0u1uhijS7W6GKNLtboYo0u1uhijS7W6GKNLtboYo0u1uhijS7WrHOv0cNadOg2lqH0dxYdrNHBGh2sec+nRv9qxptSv97GuIFhSztCeR+yRgdrdLBGB2t0sOZ9yJr3IeP1EIou1uhizXPIGl2s0cWa+YsaXazRxRpdrNHFGl2U8pa4gg56WFOuEf500cUaXayZ/63RxRpdrNHFGl2s0cUaXYznVSjvQ9boYs08Rs37kDXvQ9a8D1nzPmTN+5A170PWrIOsWVdeMz6smbeombeo0b8a/avRv5rnhTX6V6N/NfpXo381+lejfzX6V6N/8XwSV9BBD2vKNSXnk3xLviPu4QB3cIQT/djTrwPxiVB0r0b3avSuRu9q9K5G72rmfWvmfWv0rmaeomaeokbvasaFNfMUNXpXo3c140JhBge4Ez5c9K9G/4QFVFB3sX0DS2jZXkEHPawp1xAH2MIO9sLjorc170HWvAdZo4cNetighw162KCHDXrYoIcNetighw162KCHDXrYoIcNetighw162KCHDXrYoIcNetighw162KCHDXrYoIcNetighw162KCHDXrYiK6tFooONowHG8aDDTrYoIMN48AGHWx4b6dhPNgwHmzQQ2k3EO+Fct/d8Hc7hHUatwe4F8r9doP+Nehfw7hQ2k2JM+KcuCBWxBoaWLLdElfQQQ9ryjVC0b8G/WvQvwb9k3gg3sGR/EQ/9kJ5/7Hh/ZwG3Wt4/7FhXNgwLmyYt21YF96wLrzh/ceG9eAN6yka3ntsGBc2jAsb3ntseL+m4T65QQ8b9LBhPNighw162KCHDXrYsJ6uQQ8b9LBBDxv0sEEPG/SwQQ8b9LBBDxv0sEEPG/SwQQ/j+SXewZH8RD/2QtHDhvdrGsaDDbrYoIsN48EGfWzQxwZ9bNDHBn1sGA82vG/TMB5s0McGfWwYDwpTuIPjbT5EZjCHBVRQQxPifktiCyvooIc1bGCALexgDwe4uz2uNu4vbzkuqMhrYgNL8pa4gg56ttewIR+IW+IO9nAQJiydk/v2gB4H9DigxwE9DuhxQI8DehzQ44AeB/Q4oMcBPQ7ocUCPA3ocmGcNzLMG5lkDehzQ44AeB/Q4oMcBPQ7ocUCPA3oc0OPA390LjE8D86yB9zAD72EG7uMDf3cvoNuBedaQxL+7Jwzk98IPFz0P/P29gJ4H5lkD7wMF5lkDOh/4+3uBcW9A5wM6Hxj3BnQ+sE4i8Pf3AuPfwPg3oPcBvQ+8nxn4+3sB3Q/ofkD3A+PegO4H5gMCuh/Q/YDuB3Q/oPsB3Q/ofkD3A7of0P3AfEBgPiCg+4H5gIDuB8a9Ad0P6H5g3BvQ/cB8QGCeNaD/gfczA/OsgXnWgA8E3s8MzLMG5lcD72cG/CAwvxp4PzMwvxp4byjwfmZgfjXwfmZgnjUwzxoYRwd8IzDPGphnDfhHwD8C6+8C/hHwj4B/BPwj4B8B/wj4R8A/Av4R8I+AfwT8I+AfAf8I+EdgPiEwnxDwj8B8QsA/AuPpgH8E/CMwng74R2A+IeAfAd8I+EbALwJ+EfCLgF8E5g8CfhEYTwu3cITTbb6OTGEGc+GPlr+/J7GCGhpYQkv5ithBD2vYwABb2MEeDnAHx9vjbOJ+sobjhAVUbNfEBpbQsr0idsSeuCZuYCDfwo58TzzAnTBhibWM31v8osUvWvyixS9a/KLFL1r8osUvWvyixS9a/KLFL1r8osUvWvyixS9a/KLFL1r8osUvWvyixS9a/KLFL1r8osUvWtZvtPhFK+sbVgv/ePn72+3yvdGrmK+F8ve3W9Z1tMvf5x6I9/AA12vagXpNO2vaIQ5wDw9w9hHZvxJ+Z/ldl5Z1ILE+cYB7eICzr8T9Q72l/pb6xAHu4UEo60Ra5ltieyntpZwX8nVKe8QB7uFBKOtIWu5DWtaRtPhRix+1+FGLH7X4UYsftfhRix+1+FGLH7X4UYsftfhRix/F4804XuLA9hZ2sKe9gXgHRzhRfw8PQpl/ifvJ2Q9xyOP2vVDWl7SsL4nlC8oTh4LycPanWE5RjjgIxbda/CmW05QjDppycPalWM5QjjgY9iuU+R7Jr8oYr0uuG9zCFGYwh0XJdSPW0MCS7Za4gg56WMMGBtjCDva0NxDv4Agn+rEXyv1Ny3xPy/1Ni0+1+FTL/U2LX7W8/9ryXLDFr1r8SriBE9wLHy7+1eJfwhRmMIcFVFBDA0toYQUd9LCGDQywhR3sfezPQLyDo/C4+GvL3/Fu+TveLf7Q4Q8d/tDx+2gdv4/W8ftoHb+P1vH7aB2/jyb1FdTkDSyhhRV00FOvhg0MbG9hB3uh+EPH76N1rPPuWOfd4Q8d9xMd/tCxzrtjnXe36OEWpjATyu+jSblC+NHiJ0JN3lCuhJb6FXSU88JHi//MPFt8p2M9ecd6cmEv/H+LH3X8PlrHOvOOdeYd68w71pl3rDPv+H20Tn7fBmbrWD+nXLGmH1CTN9QvqWdhRX1HOb+mH2v6Qb6lXCf88fJ7aR2/k9axvr1jfXvH+vaO9e0d69vjddhw/DDbcB0oV2w4fqjJG+qX1LOwor6jnN9w/BuOn3xLuY52ejjAHRwpP23oB5x9umN9fezHNraXEmcwp1yxpR9QkzfUKylvYUXeUc5v6ceWfpBvKd9tuQ5wIL+jnZHy05Z+CGUdUMc6/o51/LE/ME1j/Yw4p1wh/HgZVwg1eUO5knqWuIKOcj6lPyn9Id9SroM9HNLYrx3tjpSfUvqTxv7M45SO9wW6xS83QvmdtI7fSev4nbSO30nr+J20Tn4vGGryBpbQwkoov5PW8TtpsT8Z/cnoD9s72MMB7uBI+Ynj39/2I4/bN3AL0zzuP8tjP3NYkFdC+Z20jt9J6/idtI7fSev4nbSO30nr+J202I+cfpBvKd/BnvwAd7Q7Ek85/YDzeCn2o4jltgXfe5ixPYdFEY9fFbE9DQ0sqWdhRd5BX9CPgn6Qb9l/B3vqD8Q79j9SfiroB5zHc/Fzpbgein7AjO25ivULyimoyRtYUs/CiryDXtEPRT/It7TXEffUH9j/Do5wUvQDzuPN2A9NPzT9gBnbc00/NNcDavKG+iX1LKzY7mjHa/qh6Qf1WthRvqf+QL0d+xuJJ00/4Dwejv0w9MPEdlLijDiHBXlFPU1sYAktrCjnqO8N/RCeL+Pv2B/KtdTrKN8TD8Q7OMLJ0B+hjNs7ntPG/hFv4LaM5VKYkc9hARXbNTRC+Z20jt9J6/idtI7fSev4HeaO30nr+J20jt9J6/idtI7fSev4nbSO30nr+J20jt9J6/idNGlvDw/UPxHKeL1jvN4xTu+YVxKu4R4eqljuhHgerwu3MBX+aPmdNGFOvoAKamhgCS2sqO+IPazJN8SBuCXuYA8Htu+IRzgJ5V/POFy4hhu4hSnMYA4LqKCGBpbQwgo66GENGxiEMg7vGYf3HKxwgDu2j3Aiv4cHeCKU8a/EnfAby/i3X9bp7ciPq1hugq0M/b+9jDOF45rtcB7Hya3BbkNe+NfLuExYQAO98DeW8VPP+Klf5k26bWynFw7LuEnKjZSbKLcXPl7GSTMvlnFSv+hACjPh5TJOmvlkGScJVRrraWiE/7yMk6SehZXwahkn9cu6a59ynMLvL+MiOb6e8gPxTviDZVzUMy7qF/2Yxz8zf3sZ/8TPEcyE31vGP/0y3ikop6Bmu4El9SysKOeyuB+fcZzkO9rtKT/Qzo78SPmJ+vP4Zub1Mr4R5nnMF8KbZTzTy7iZvKFcSeyFT5dxisQd23fEI9unPF7nVcF+YVHE9pXwZ8t4I+4H+iLWa4g7OBbx/K8U7cFC0Z6Kx6/JG+hVrNcQd3Akv9K0BwvhJ4v/xuMjb6DXtEfcwVH494sg9PydAYnXhvaFv7/4Zvwcw0z4B4tvxv0broOJx6HJG+qX1LOwor6jnGf/Ddtb8h31e/ID9XZsH4Xiiz3PW3qet/T4Yo8v9vhijy8Kc7YX1FPkNTSwpJyFFXlH7Ilr2JAPsCXfwZ78AHfkR+IJ7jmuA/FJGb/Hs2D3+KNwDTdwC1OYwRwWUEENDSyhhRV00MMaNjDAFnawhwPcwRFOcA8PQpmf6/F94Uoovi/cCH+UbIlT4ow4hwVUbNfEhriElnxF7Ig9cU3cwABb2MEeDnAHRzjBPf06wBNhgoWK7w/4/oDvD/j+gO8P+P6A7w/4/oDvD/j+gO8P+P6A7w/4/oDvD/j+gO8P+P6A7wtb2MEeDnAHRzjBPTzAE+E/LH4vHIV/vfiucNrGKb3ZpyROYQYtrOCQxUOY/SKygCq2U0ADR8V2HVlAA0fh3yw6OKB/EhfECmryhrgi9sQ1bMh3xD3xaOKf6J/1a2A+fliu9gZuYcr2rIw/RZvDgryinCZvyJfQsr0idtCTr4kbGGDL9g725Af2s4Mj+QnuyR/K2M9Zr4RbmEMNLfQwwB6O8CAUPRCu4QZuYQozmMMCKqihgSW0sIIOeljDBgbYwg72cIA7OMIJ7uGh4vtxstzqZo+Opw+PV/NlP3168+jyKsn/4Xhx+fjsdN50//LpxcPr+RPy+OziH6NELP/709v/Pf35Py3fy/i/S4GT+L8/vf3fs4t/SqJkbC9OHx+T7CeXTz791iyVib4+Xp2dnp/9Ytn1okXfuv/07Pzh2cVHH50+/Oh4c/3Bw6ePH39673mx5P8DkX25S5jSAAA\u003d"
+}
